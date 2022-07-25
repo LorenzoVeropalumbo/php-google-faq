@@ -105,5 +105,10 @@
     <?php } ?>
     </div>
   </main>
+
+  <!-- footer -->
+  <footer>
+    <div></div>
+  </footer>
 </body>
 </html>
