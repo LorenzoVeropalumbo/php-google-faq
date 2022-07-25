@@ -4,18 +4,19 @@
   box-sizing: border-box;
 }
 .menu{
-  height: 120px;
+  height: 110px;
   border-bottom: 2px solid #808080;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Product Sans', sans-serif;
 }
 
 .images *{
   font-weight: 400;
+  vertical-align: middle;
 }
 
 .google-logo{
   width: 85px;
-  margin: 25px 20px;
+  margin: 25px 4px 25px 20px;
 }
 
 .nav-menu{
@@ -30,23 +31,22 @@
 
 .nav-menu li.selected{
   color: #3367d6;
-  padding-bottom: 6px;
+  padding-bottom: 8px;
   border-bottom: 4px solid #3367d6;
 
 }
 
 h2{
   display: inline-block;
-  font-size: 28px;
+  font-size: 26px;
   margin-block: 10px;
-  vertical-align: top;
 }
 
 .container{
-  width: 60%;
+  width: 55%;
   padding: 100px 0 40px;
   margin: 0 auto;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Product Sans', sans-serif;
 }
 
 .container h3{
