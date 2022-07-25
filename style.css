@@ -62,6 +62,10 @@ h2{
   list-style-type: decimal;
 }
 
+.container .outside li{
+  padding-left: 10px;
+}
+
 .container .outside .inside{
   padding-left: 20px;
   padding-block: 10px;
@@ -70,4 +74,5 @@ h2{
 
 .container .outside .inside li{
   padding-block: 10px;
+  padding-left: 10px;
 }
